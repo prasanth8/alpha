@@ -7,7 +7,7 @@ plugins {
 
 group = 'com.alpha'
 //This version will append with jar file name
-version = 'Project'
+version = 'mano'
 
 java {
 	sourceCompatibility = '21'
